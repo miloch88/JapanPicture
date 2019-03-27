@@ -69,9 +69,9 @@ img:nth-child(6) {
 
 img:nth-child(7) {
     display: block;
-    width: 10%;
-    left: 200px;
-    top: 200px;
+    width: 15%;
+    left: 40px;
+    top: 40px;
     z-index: -1;
 }
 
@@ -79,25 +79,26 @@ img:nth-child(8) {
     display: block;
     width: 25%;
     left: 0;
-    top: 250px;
+    top: 70px;
 }
 
 img:nth-child(9) {
     display: block;
     width: 40%;
     right: 20px;
-    top: 140px;
+    top: 40px;
 }
 
 img:nth-child(10) {
     display: block;
     width: 40%;
     right: 0;
-    top: 250px;
+    top: 50px;
 }
 
 img:nth-child(11) {
+    display: block;
     width: 5%;
-    left: 150px;
-    bottom: 250px;
+    left: 50px;
+    bottom: 50px;
 }
